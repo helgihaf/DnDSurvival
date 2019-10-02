@@ -16,7 +16,9 @@ Roll dice again for weapon and add it to normal damage.
 
 ### Hit or Miss
 (total attack roll) >= target AC
+
 20: Critical hit => Critical damage
+
 1: Critical miss
 
 # Spells
