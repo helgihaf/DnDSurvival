@@ -48,9 +48,22 @@ Can be opened by:
 * Min 1 hour long
 * Spend one or more Hit Dice up to maximum: Roll Hit Dice and add CON modifier.
 
-### Long Rest
+## Long Rest
 * Min 8 hours
 * Max 2 hours on watch
 * Regain all lost hit points
 * Regain spent Hit Dice up to 1/2 of total (see short rest).
+
+# Movement
+## Climbing, Swimming or Crawling
+* 1 foot of movement costs 1 extra foot, 2 in difficult terrain
+* Slippery slope or rough water requires successfult Strength (Athletics) check
+
+## Jumping
+### Long Jump
+* 10 feet move before jumping: Number of feet up to STR score
+* Standing still: Number of feet up to 1/2 STR score
+### High Jump
+* 10 feet move before jumping: 3 + STR modifier
+* Standing still: (3 + STR modifier) / 2
 
