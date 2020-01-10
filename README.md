@@ -42,3 +42,15 @@ Can be opened by:
 * Force it open. Str check.
 * Damage door by attacking it, door hp set by DM.
 * Knock spell or similar magic
+
+# Resting
+## Short Rest
+* Min 1 hour long
+* Spend one or more Hit Dice up to maximum: Roll Hit Dice and add CON modifier.
+
+### Long Rest
+* Min 8 hours
+* Max 2 hours on watch
+* Regain all lost hit points
+* Regain spent Hit Dice up to 1/2 of total (see short rest).
+
