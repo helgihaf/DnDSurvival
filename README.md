@@ -21,6 +21,10 @@ Roll dice again for weapon and add it to normal damage.
 
 1: Critical miss
 
+### Damage Resistance and Vulnerability
+Damage resistance: Damage is halved.
+Damage vulnerability: Damage is doubled.
+
 # Spells
 ## Spell DC
 8 + (spellcasting ability modifier) + (proficency bonus) + (any special...)
