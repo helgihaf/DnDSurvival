@@ -47,6 +47,8 @@ Can be opened by:
 * Damage door by attacking it, door hp set by DM.
 * Knock spell or similar magic
 
+Note that given time and a lot of noise any party can probably break down any padlock or door, no roll required. The rules above are for when the party is in a hurry or want to be stealthy.
+
 # Resting
 ## Short Rest
 * Min 1 hour long
