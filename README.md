@@ -35,6 +35,16 @@ d20 + (spellcasting ability modifier) + (proficiency bonus)
 # Proficiency
 A proficiency normally means you can add your proficicency bonus to a roll.
 
+# Skill check
+The player makes a skill check because he/she is trying to accomplish something.
+d20 + (ability modifier) + (proficiency bonus if proficient with skill)
+Compare result against DC. If total >= DC the check is successful, otherwise it is a failure.
+
+# Saving throw
+Saving throws are not voluntary. The player must perform the saving throw because something happened, for example, she was hit by a poisonous dart.
+d20 + (ability modifier appropriate for saving throw)
+Compare result against DC. If total >= DC the save succeds, otherwise it fails.
+
 # Doors
 ## Stuck Doors
 Open by str check.
