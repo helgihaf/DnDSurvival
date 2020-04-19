@@ -76,6 +76,9 @@ Note that given time and a lot of noise any party can probably break down any pa
 * Regain spent Hit Dice up to 1/2 of total (see short rest).
 
 # Movement
+## Speed
+x speed means you can move x feet during combat, 2x if you take the Dash action.
+
 ## Climbing, Swimming or Crawling
 * 1 foot of movement costs 1 extra foot, 2 in difficult terrain
 * Slippery slope or rough water requires successfult Strength (Athletics) check
@@ -88,3 +91,21 @@ Note that given time and a lot of noise any party can probably break down any pa
 * 10 feet move before jumping: 3 + STR modifier
 * Standing still: (3 + STR modifier) / 2
 
+## Long Distance Movement
+Normal travel pace means 3 miles per hour and 24 miles per day. See https://www.dndbeyond.com/sources/basic-rules/adventuring
+
+# Death
+* There are no negative HPs. When a character reaches 0 HP he/she is unconsious.
+* When at 0 HP and you take damage equal to or greater than you max HP you are dead.
+* When you start your turn at 0 HP you must make a death saving throw, once each turns. 3 successes mean that you are stabilized, 3 failures means you are dead, whichever comes first. A roll of 1 means 2 failures, a roll of 20 means 2 successes.
+* The best way to save a creature with 0 hit points is to heal it. Otherwise, stablize it.
+* Healing:
+  * Healing spells (Cure wounds and a lot more https://rpg.stackexchange.com/questions/133286/what-spells-are-available-to-heal-characters-increase-their-max-hp-or-grant-te)
+  * Healing potions
+  * Paladin: Lay on hands
+  * Cleric: Life Domian's Channel Divinity: Preserve Life
+  * And more....
+
+* Stabilizing only - no hit points are restored.
+  * Successful Wisdom (Medicine) check.
+  * Healer's Kit - no proficiency required.
