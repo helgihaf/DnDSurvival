@@ -1,30 +1,32 @@
 # D&D Survival
 
 # Attacks
-## Player Attack Roll
-### Melee
+## Melee
 d20 + (strength modifier) + (proficency bonus)
 
-### Ranged
+## Ranged
 d20 + (dex modifier) + (proficency bonus)
 
-### Damage
+## Damage
 (damage roll for weapon) + (ability modifier used in attack roll)
 
-### Critical Damage
+## Critical Damage
 Roll dice again for weapon and add it to normal damage.
 
-### Hit or Miss
+## Hit or Miss
 (total attack roll) >= target AC
 
 20: Critical hit => Critical damage
 
 1: Critical miss
 
-### Damage Resistance and Vulnerability
+## Damage Resistance and Vulnerability
 Damage resistance: Damage is halved.
 
 Damage vulnerability: Damage is doubled.
+
+## Two-weapon fighting
+If your attack was with a single-handed light weapon you can use your bonus action to do another attack with your other hand with a single-handed light weapon. You DON'T add ability modifier to your damage.
 
 # Spells
 ## Spell DC
@@ -32,6 +34,9 @@ Damage vulnerability: Damage is doubled.
 
 ## Spell Attack
 d20 + (spellcasting ability modifier) + (proficiency bonus)
+
+## Preparing and learning spells
+This is different between classes.
 
 # Proficiency
 A proficiency normally means you can add your proficicency bonus to a roll.
