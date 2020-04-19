@@ -52,14 +52,16 @@ Compare result against DC. If total >= DC the save succeds, otherwise it fails.
 
 # Doors
 ## Stuck Doors
-Open by str check.
+Open by STR check.
 
 ## Locked Doors
 Can be opened by:
 * Key
-* Only if proficient in thiefs' tools: Pick lock using thiefs' tools, dex check + proficiency bonus.
-* Force it open. Str check.
-* Damage door by attacking it, door hp set by DM.
+* Only if proficient in thiefs' tools: Pick lock using thiefs' tools, DEX check + proficiency bonus.
+* Force it open. STR check.
+* Damage door by attacking it, door HP set by DM (DMG 246).
+  * Wood door: AC 15, HP 18
+  * Stone door: AC 17, HP 18
 * Knock spell or similar magic
 
 Note that given time and a lot of noise any party can probably break down any padlock or door, no roll required. The rules above are for when the party is in a hurry or want to be stealthy.
