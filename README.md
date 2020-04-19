@@ -46,7 +46,7 @@ Compare result against DC. If total >= DC the check is successful, otherwise it 
 # Saving throw
 Saving throws are not voluntary. The player must perform the saving throw because something happened, for example, she was hit by a poisonous dart.
 
-d20 + (ability modifier appropriate for saving throw)
+d20 + (ability modifier appropriate for saving throw) + (proficiency bonus if proficient with saving throw)
 
 Compare result against DC. If total >= DC the save succeds, otherwise it fails.
 
