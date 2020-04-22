@@ -116,3 +116,14 @@ Normal travel pace means 3 miles per hour and 24 miles per day. See https://www.
 * Stabilizing only - no hit points are restored.
   * Successful Wisdom (Medicine) check.
   * Healer's Kit - no proficiency required.
+
+# Homebrew and other sources
+
+## Being on fire
+The creature on fire takes 1d4 / 1d10 fire damage at the start of its turn, until someone takes an action to douse the fire (MM 125). Alchemists Fire: A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+
+## The healing potion rule
+Healing potions always yield maximum hit points. Instead, their availability is limited in some way.
+
+## The critical damage rule
+Critical damage is always (max dice damage) + (dice roll) + modifiers. For example, a weapon with damage of 1d8 + 3 would do 8 + 1d8 + 3.
