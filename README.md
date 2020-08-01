@@ -38,6 +38,9 @@ d20 + (spellcasting ability modifier) + (proficiency bonus)
 ## Preparing and learning spells
 This is different between classes.
 
+## Scrolls
+https://www.dndbeyond.com/magic-items/spell-scroll
+
 # Proficiency
 A proficiency normally means you can add your proficicency bonus to a roll.
 
