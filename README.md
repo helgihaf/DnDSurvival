@@ -36,7 +36,7 @@ If your attack was with a single-handed light weapon you can use your bonus acti
 d20 + (spellcasting ability modifier) + (proficiency bonus)
 
 ## Preparing and learning spells
-This is different between classes.
+[This is different between classes](./Spells.md).
 
 ## Scrolls
 https://www.dndbeyond.com/magic-items/spell-scroll
