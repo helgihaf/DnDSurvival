@@ -119,6 +119,20 @@ Normal travel pace means 3 miles per hour and 24 miles per day. See https://www.
 * Stabilizing only - no hit points are restored.
   * Successful Wisdom (Medicine) check.
   * Healer's Kit - no proficiency required.
+  
+# Hiding
+## Why hide?
+* Opponents have disadvantage on attack roll
+* You gain advantage on attack roll.
+* Many spells cannot target you
+* You can move without being seen or heard at 2/3 speed
+## Mechanics
+* Dexterity (Stealth) check against Wisdom (Perception) of those actively searching, passive perception for others.
+* Disadvantage on Wisdom (Perception) if environment is lightly obscured.
+## When can you hide?
+* When an enemy cannot clearly see you. You can always hide when you are invisible.
+## Invisible = Hide?
+* No. Invisiblity refers only to sight. Hiding applies to sight, hearing and movement.
 
 # Homebrew and other sources
 
