@@ -28,6 +28,9 @@ Damage vulnerability: Damage is doubled.
 ## Two-weapon fighting
 If your attack was with a single-handed light weapon you can use your bonus action to do another attack with your other hand with a single-handed light weapon. You DON'T add ability modifier to your damage.
 
+## Grapple
+Grapple is an *attack*. Grapplers Strength (Athletics) vs targets Strength (Athletics) or Dexterity (Acrobatics) (target chooses wich). On success the target is *grappled*. Target can escape grapple by using its Strength (Athletics) or Dexterity (Acrobatics) vs the grapplers Strength (Athletics).
+
 # Spells
 ## Spell DC
 8 + (spellcasting ability modifier) + (proficency bonus) + (any special...)
