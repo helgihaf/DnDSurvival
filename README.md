@@ -138,6 +138,23 @@ Normal travel pace means 3 miles per hour and 24 miles per day. See https://www.
 ## Invisible = Hide?
 * No. Invisiblity refers only to sight. Hiding applies to sight, hearing and movement.
 
+# Environment and Light
+Lightly obscured
+* Dim light, patchy fog, moderate foilage
+* Creatures have disadvantage on Wisdom (Perception) checks
+* For passive perception that means -5
+
+Heavily obscured
+* Darkness, opaque fog, dense foilage
+* Blocks vision entirely = blinded
+
+|                  | **Bright light** | **Dim light**        | **Darkness**          |
+|------------------|------------------|------------------|-------------------|
+| **Normal sight** | Normal           | Lightly obscured | Heavily obscured  |
+| **Darkvision**   | Normal       | Normal           | Lightly obscured  |
+| **Blindvision**  | Normal       | Normal           | Normal            |
+| **Truevision**   | Normal       | Normal           | Normal            |
+
 # Homebrew and other sources
 
 ## Being on fire
