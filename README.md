@@ -82,7 +82,7 @@ Note that given time and a lot of noise any party can probably break down any pa
 * Door is is impassable until it is broken or the spell is dispelled or suppressed
 * DC to break door or pick locks increases by 10 while spell is in effect
 * If you pick a lock you still must dispell or suppress the spell to pass through
-* Force door open: Either you rule it can't be done or you treat is as if it has been broken
+* Force door open: Either you rule that it can't be done or you treat it as if the door has been broken
 
 # Resting
 ## Short Rest
