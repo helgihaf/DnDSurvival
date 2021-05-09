@@ -77,6 +77,13 @@ Can be opened by:
 
 Note that given time and a lot of noise any party can probably break down any padlock or door, no roll required. The rules above are for when the party is in a hurry or want to be stealthy.
 
+## Arcane Lock
+* Locks doors, no matter if they have a lock or not
+* Door is is impassable until it is broken or the spell is dispelled or suppressed
+* DC to break door or pick locks increases by 10 while spell is in effect
+* If you pick a lock you still must dispell or suppress the spell to pass through
+* Force door open: Either you rule it can't be done or you treat is as if it has been broken
+
 # Resting
 ## Short Rest
 * Min 1 hour long
