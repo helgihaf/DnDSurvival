@@ -118,7 +118,7 @@ Normal travel pace means 3 miles per hour and 24 miles per day. See https://www.
 * There are no negative HPs. When a character reaches 0 HP he/she is unconsious.
 * When at 0 HP and you take damage equal to or greater than you max HP you are dead.
 * When you start your turn at 0 HP you must make a death saving throw, once each turns. 3 successes mean that you are stabilized, 3 failures means you are dead, whichever comes first. A roll of 1 means 2 failures, a roll of 20 means 2 successes.
-* Takin damage while unconsious equals 1 failed death saving throw. If the hit is critical then 2 failed death saving throws. All attacks within 5 feet of an unconsious creature are critical.
+* Taking damage while unconsious equals 1 failed death saving throw. If the hit is critical then 2 failed death saving throws. All attacks within 5 feet of an unconsious creature are critical.
 * The best way to save a creature with 0 hit points is to heal it. Otherwise, stablize it.
 * Healing:
   * Healing spells (Cure wounds and a lot more https://rpg.stackexchange.com/questions/133286/what-spells-are-available-to-heal-characters-increase-their-max-hp-or-grant-te)
