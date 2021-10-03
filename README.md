@@ -31,6 +31,9 @@ If your attack was with a single-handed light weapon you can use your bonus acti
 ## Grapple
 Grapple is an *attack*. Grapplers Strength (Athletics) vs targets Strength (Athletics) or Dexterity (Acrobatics) (target chooses wich). On success the target is *grappled*. Target can escape grapple by using its Strength (Athletics) or Dexterity (Acrobatics) vs the grapplers Strength (Athletics).
 
+## Disarm
+Use a weapon attack. Attack roll contested with STR (Athletics) or DEX (Acrobatics). Target has advantage if using two hands. Target has advantage if larger than attacker (DMG 271).
+
 # Spells
 ## Spell DC
 8 + (spellcasting ability modifier) + (proficency bonus) + (any special...)
