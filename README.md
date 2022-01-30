@@ -136,7 +136,7 @@ Normal travel pace means 3 miles per hour and 24 miles per day. See https://www.
   
 # Hiding
 ## Why hide?
-* You can gain a surprise round at the beginning of combat.
+* You can gain surprise at the beginning of combat.
 * Opponents have disadvantage on attack roll
 * You gain advantage on attack roll.
 * Many spells cannot target you
